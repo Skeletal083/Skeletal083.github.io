@@ -1,12 +1,33 @@
 html {
   height: 100%;
   width: 100%;
+  background-color: #000000
 }
 
 h4 {
   color: #e6c79c
 }
 
-Skeletal {
+.Title {
+  color: #6184d8
+}
+
+.Skeletal {
   color: #ec8517
+}
+
+.Squirt {
+  color:#fedd4f
+}
+
+.Nymph {
+  color: #af8529
+}
+
+.Ghostly {
+  color: #0495b1
+}
+
+.contacts {
+  color: #c3d108
 }
